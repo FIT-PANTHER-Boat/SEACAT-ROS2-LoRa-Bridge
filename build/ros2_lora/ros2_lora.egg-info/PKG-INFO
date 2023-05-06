@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ros2-lora
+Version: 0.0.1
+Summary: ROS2 package for LoRa communication.
+Author: hikari
+Author-email: asaad2022@my.fit.edu
+License: Apache License 2.0
+Keywords: ROS2,LoRa
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Sofware License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8

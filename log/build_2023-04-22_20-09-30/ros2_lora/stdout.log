@@ -1,0 +1,35 @@
+running egg_info
+creating build/ros2_lora/ros2_lora.egg-info
+writing build/ros2_lora/ros2_lora.egg-info/PKG-INFO
+writing dependency_links to build/ros2_lora/ros2_lora.egg-info/dependency_links.txt
+writing entry points to build/ros2_lora/ros2_lora.egg-info/entry_points.txt
+writing requirements to build/ros2_lora/ros2_lora.egg-info/requires.txt
+writing top-level names to build/ros2_lora/ros2_lora.egg-info/top_level.txt
+writing manifest file 'build/ros2_lora/ros2_lora.egg-info/SOURCES.txt'
+reading manifest file 'build/ros2_lora/ros2_lora.egg-info/SOURCES.txt'
+writing manifest file 'build/ros2_lora/ros2_lora.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build
+creating /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib
+creating /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib/ros2_lora
+copying ros2_lora/__init__.py -> /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib/ros2_lora
+copying ros2_lora/ros2_lora.py -> /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib/ros2_lora
+running install
+running install_lib
+creating /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora
+copying /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib/ros2_lora/__init__.py -> /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora
+copying /home/hikari/ros2_ws/ros2_lora/build/ros2_lora/build/lib/ros2_lora/ros2_lora.py -> /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora
+byte-compiling /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora/ros2_lora.py to ros2_lora.cpython-310.pyc
+running install_data
+creating /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/share/ament_index
+creating /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/share/ament_index/resource_index
+creating /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/share/ament_index/resource_index/packages
+copying resource/ros2_lora -> /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/share/ament_index/resource_index/packages
+copying package.xml -> /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/share/ros2_lora
+running install_egg_info
+Copying build/ros2_lora/ros2_lora.egg-info to /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/python3.10/site-packages/ros2_lora-0.0.1-py3.10.egg-info
+running install_scripts
+Installing ros2_lora_bridge script to /home/hikari/ros2_ws/ros2_lora/install/ros2_lora/lib/ros2_lora
+writing list of installed files to '/home/hikari/ros2_ws/ros2_lora/build/ros2_lora/install.log'
